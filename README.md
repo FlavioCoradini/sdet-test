@@ -80,8 +80,8 @@ As you will discover, the app is not ready for production quite yet! The goals o
 1. Talk through the code and explain what it does.
 2. Run the application, and make a request with `curl`.
 3. Write some tests to give us confidence the app is working (hint: edge cases!).
-   Use your judgement to decide what types of test to focus on: unit and integration, and E2E.
-4. Provide an explanation about how we can extend for a E2E coverage
+   Use your judgement to decide what types of test to focus on: unit and integration.
+4. Provide an explanation about how we can extend for E2E coverage
 
 ## Running the app
 
