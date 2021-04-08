@@ -105,8 +105,6 @@ curl -X POST http://localhost:3000/compute --data '{"sample": 2000, "area_code":
 
 ## Running the tests
 
-In Repl.it, you can run commands from the _Shell_ tab.
-
 You can run all the tests with:
 
 ```bash
