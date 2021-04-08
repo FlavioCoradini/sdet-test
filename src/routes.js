@@ -44,7 +44,7 @@ router.get("/areas", (req, res) => {
       },
     ],
   };
-  res.send(areas);
+  res.status(200).send(areas);
 });
 
 module.exports = router;
