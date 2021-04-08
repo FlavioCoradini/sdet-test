@@ -85,8 +85,6 @@ As you will discover, the app is not ready for production quite yet! The goals o
 
 ## Running the app
 
-In Repl.it, you can simply click the green _Run_ button, the output will be shown in the _Console_ tab.
-
 Install the dependencies:
 
 ```bash
